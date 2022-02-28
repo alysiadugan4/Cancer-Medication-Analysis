@@ -28,7 +28,7 @@ Your tasks are to do the following:
 
 ## Summary
 
-This simulation of a medical drug study requires extensive use of matplotlib and/or pyplot to generate all of the visuals required. I started by doing some data cleanup, removing any rows that contained duplicate timepoints for a given mouse ID number. With this clean data set, I was able to start my analysis.
+This simulation of a medical drug study requires extensive use of matplotlib and/or pyplot to generate all of the visuals required. The dataset started at 1,843 rows. I started by doing some data cleanup, removing any rows that contained duplicate timepoints for a given mouse ID number. With this clean data set, I was able to start my analysis.
 
 The first step was grouping the data by drug regimen, then calculating the mean, median, variance, standard deviation, and standard error per drug.
 
